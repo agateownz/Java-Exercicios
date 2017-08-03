@@ -22,9 +22,16 @@
 hs_err_pid*
 
 #netbeans
+
+
+# NetBeans specific #
 nbproject/private/
 build/
 nbbuild/
 dist/
 nbdist/
+nbactions.xml
+nb-configuration.xml
 .nb-gradle/
+/AtividadeMapa/nbproject/private/
+/Agenda/nbproject/private/
