@@ -33,5 +33,7 @@ nbdist/
 nbactions.xml
 nb-configuration.xml
 .nb-gradle/
-/AtividadeMapa/nbproject/private/
 /Agenda/nbproject/private/
+/TarefasAFazer/nbproject/private/
+/ThePongGame/nbproject/private/
+/ProjetoSwing/nbproject/private/
